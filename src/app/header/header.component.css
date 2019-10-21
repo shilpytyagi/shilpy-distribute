@@ -1,0 +1,221 @@
+/* #menu-nav { */
+    /* max-width: 1000px; */
+    /* margin: 130px auto; */
+    /* background-color: #ecf0f170;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+   
+  #navigation-bar ul {
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  #navigation-bar li {
+    float: left; */
+    /* width: 20%; */
+  /* }
+  #navigation-bar li:hover a::before { */
+    /* right: 0;
+    left: 0; */
+  /* }
+  #navigation-bar a {
+    color: #848484;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px 0;
+    display: block; */
+    /* position: relative; */
+    /* transition: all 0.3s ease;
+  }
+  #navigation-bar a:hover {
+    color: #e74c3c;
+  }
+  #navigation-bar a::before {
+    content: "";
+    transition: all 0.4s ease-in-out;
+    position: absolute; */
+    /* right: 50%;
+    left: 50%; */
+    /* bottom: 0;
+    height: 2px;
+    background-color: #e74c3c;
+  }
+  #navigation-bar a:hover::before {
+    right: 0;
+    left: 0;
+  }
+   
+  li {
+      list-style: none;
+  } */
+
+.fa{
+  color:#992f4d;
+}
+li a{
+  font-size:30px;
+  font-weight: bold;
+  color:black;
+  transition:1s;
+}
+li a :hover{
+  color:red;
+ 
+}
+
+
+
+
+  /* footer social icons */
+ul.social-network {
+	list-style: none;
+	display: inline;
+	margin-left:0 !important;
+	padding: 0;
+}
+ul.social-network li {
+	display: inline;
+	margin: 0 5px;
+}
+/* footer social icons */
+.social-network a.icoRss:hover {
+	background-color: #F56505;
+}
+.social-network a.icoFacebook:hover {
+	background-color:#3B5998;
+}
+.social-network a.icoTwitter:hover {
+	background-color:#33ccff;
+}
+.social-network a.icoGoogle:hover {
+	background-color:#BD3518;
+}
+.social-network a.icoVimeo:hover {
+	background-color:#0590B8;
+}
+.social-network a.icoLinkedin:hover {
+	background-color:#007bb7;
+}
+.social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+	color:#fff;
+}
+a.socialIcon:hover, .socialHoverClass {
+	color:#44BCDD;
+}
+
+.social-circle li a {
+	display:inline-block;
+	position:relative;
+	margin:0 auto 0 auto;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+  border-radius:50%;
+	text-align:center;
+	width: 50px;
+	height: 50px;
+	font-size:20px;
+}
+.social-circle li i {
+	margin:0;
+	line-height:50px;
+	text-align: center;
+}
+
+.social-circle li a:hover i, .triggeredHover {
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-ms--transform: rotate(360deg);
+	transform: rotate(360deg);
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	transition: all 0.2s;
+}
+.social-circle i {
+	color: #fff;
+	-webkit-transition: all 0.8s;
+	-moz-transition: all 0.8s;
+	-o-transition: all 0.8s;
+	-ms-transition: all 0.8s;
+  transition: all 0.8s;
+}
+body{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ====================cards========================= */
+
+.card{
+  padding-left:0px;
+  padding-right:0px;
+  border: rgba(185, 166, 141, 0.288)10px solid
+}
+
+
+.card-img{
+  height: 480px;
+  padding-left:0px;
+  padding-right:0px;
+}
+
+#home{
+  /* background-color: rgba(236, 232, 232, 0.966); */
+  background: url("../../assets/images/BeautyPlus_20190823004258676_save.jpg");
+  padding:40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* welcome message */
+
+#box-2{
+  background-color:rgb(255, 255, 255);
+  height: 250px; 
+  border-top:rgb(249, 245, 239) 8px solid;
+}
+#box-heading{
+  text-align:center;
+   color:burlywood;
+   font-weight:bolder;
+   padding-top:40px;
+   font-size:50px;
+   font-weight: bold;
+   text-decoration: underline;
+}
+#box-subheading{
+  text-align: center;
+  font-size: 20px;
+}
+
+#boxes{
+  border: rgba(80, 79, 79, 0.24)10px solid
+}
+h5{
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}

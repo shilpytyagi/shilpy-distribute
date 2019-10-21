@@ -1,0 +1,21 @@
+.text-center{
+    font-weight:bolder;
+    font-size: 130%;
+    background:url(../../assets/images/24796_Blur_w1120_blur.jpg)no-repeat 50% 50%;
+}
+#mainevent{
+    /* background-image: linear-gradient(to right top, #6c1725, #713261, #4f568f, #00759e, #1d8d93); */
+    background: url(../../assets/images/blur.jpg);
+    
+}
+
+
+.fa-arrow-alt-circle-right{
+    padding-right: 18px;
+    color: pink;
+}
+a{
+    color:#a19082;
+    font-weight:bold
+}
+

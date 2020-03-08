@@ -1,6 +1,5 @@
 #box-1{
    background:url(../../assets/images/TAPETA-BIALA-CEGLA-FLIZELINA-KAMIEN-3D.jpg);
-    /* background-color: white; */
     border-top:#992f4d 8px solid;
     border-bottom:#992f4d 35px solid
 }
@@ -9,19 +8,14 @@
     text-align: left;
 }
 .box-heading{
-    /* text-align: center; */
     color:#992f4d;
     font-weight:bold;
 }
-
-
 #subbox-1{
    border-top:#992f4d 5px solid; 
 }
-
 #box-2{
     background-color: violet;
-    /* background-color: white; */
     border-top: rgba(230, 48, 184, 0.726) 8px solid;
 }
 #box-3{
@@ -30,7 +24,6 @@
     border-top: rgba(230, 106, 48, 0.548) 8px solid;
 }
 #box-4{
-    /* background-color: white; */
     background: url(../../assets/images/TAPETA-BIALA-CEGLA-FLIZELINA-KAMIEN-3D.jpg);
     border-top:#992f4d 8px solid;
     border-bottom:#992f4d 35px solid;
@@ -94,7 +87,6 @@ z-index: -1;
     box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
     background-image: linear-gradient(to right top, #270805, #521719, #832526, #b63531, #eb473a);
     color:white; 
-
 }
 #sqaure6{
     box-shadow: 0 0 15px 5px rgba(128, 128, 128, 0.74);
@@ -109,11 +101,6 @@ z-index: -1;
     color:white;
 }
 
-
-
-/* #innercard{
-    background: url(../../assets/images/off-white-bg.jpg);
-} */
 
 
 

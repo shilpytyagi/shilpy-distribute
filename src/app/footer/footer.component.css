@@ -1,18 +1,12 @@
-/* .footer-logo{
-    background: url(../../assets/images/off-white-bg.jpg);
-} */
 section#footer {
     background-color:#992f4d;
 	margin: 0;
 	color: #fff;
 }
-/* rgba(6, 39, 11, 0.842); */
-
 section#footer .copyright {
 	text-align: center;
 }
-
-/* footer social icons */
+/* ===============footer social icons============== */
 ul.social-network {
 	list-style: none;
 	display: inline;
@@ -23,8 +17,7 @@ ul.social-network li {
 	display: inline;
 	margin: 0 5px;
 }
-
-/* footer menu */
+/* =====================footer menu================= */
 ul.footer-menu {
 	list-style: none;
 	display: inline;
@@ -35,7 +28,6 @@ ul.footer-menu li {
 	display: inline;
 	margin: 0 5px;
 }
-
 a.scrollup{
 	height:32px;
 	width:32px;
@@ -54,15 +46,10 @@ a.scrollup:hover{
 	opacity:1;
     color: rgba(40, 167, 69, 1);
 }
-
 .credits {
 	text-align: center;
 }
-/*===========================
-  --- Template Components ----
-=========================== */
-
-/* footer social icons */
+/* ========================footer social icons=========================== */
 .social-network a.icoRss:hover {
 	background-color: #F56505;
 }
@@ -88,7 +75,6 @@ a.scrollup:hover{
 a.socialIcon:hover, .socialHoverClass {
 	color:#44BCDD;
 }
-
 .social-circle li a {
 	display:inline-block;
 	position:relative;
@@ -130,9 +116,7 @@ a{
 	color: burlywood;
 	font-size:20px;
     font-weight: bold;
-    
 }
-
 body{
     text-align: center;
 }

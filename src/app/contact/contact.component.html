@@ -20,13 +20,8 @@
         <p class="icon-envelope-2">
           Want to work with us or just want to say hello? Don't hesitate to get in touch!
         </p>
-
-
-
 <br>
         <div class="cform" id="contact-form">
-
-
           <div id="sendmessage">Your message has been sent. Thank you!</div>
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm">
@@ -34,29 +29,22 @@
               <input type="text" [(ngModel)]="FirstName" name="name" class="form-control" placeholder="First Name"
                 data-msg="Please enter at least 4 chars" />
              </div>
-           
             <div class="form-group">
               <input type="text" [(ngModel)]="lastname" name="name" class="form-control" placeholder="Last Name" 
                 data-msg="Please enter at least 4 chars" />
              </div>
-            
-
             <div class="form-group">
               <input type="email" class="form-control" [(ngModel)]="email" name="email" placeholder="Your Email" 
                 data-msg="Please enter a valid email" />
              </div>
-            
             <div class="form-group">
               <input type="text" class="form-control"[(ngModel)]="subject" name="subject"  placeholder="Subject" 
                 data-msg="Please enter at least 8 chars of subject" />
               </div>
-            
             <div class="form-group">
               <textarea class="form-control"[(ngModel)]="message" name="message" rows="5" data-msg="Please write something for us"
                 placeholder="Message"></textarea>
              </div>
-            
-
             <div class="text-center"><button type="submit" class="btn btn-lg btn-theme" (click)="addData()">Send Message</button></div>
           </form>
         </div>
@@ -75,11 +63,6 @@
       </div>
 </div>
 </div>
-
-
-
-
-    
 <div class="text">
     <h3 class="bottom">Find Us</h3>
   </div>

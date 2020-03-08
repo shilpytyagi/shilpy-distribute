@@ -1,38 +1,17 @@
 /* ====================cards========================= */
-
+#home{
+  background: url("../../assets/images/BeautyPlus_20190823004258676_save.jpg");
+  padding:40px;
+}
 .card{
     padding-left:0px;
     padding-right:0px;
-    /* border: rgba(185, 166, 141, 0.288)10px solid */
   }
-  
-  
   .card-img{
-    /* height: 480px; */
     padding-left:0px;
     padding-right:0px;
   }
-  
-  #home{
-    /* background-color: rgba(236, 232, 232, 0.966); */
-    background: url("../../assets/images/BeautyPlus_20190823004258676_save.jpg");
-    padding:40px;
-  }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  /* welcome message */
-  
+  /*======================= welcome message==================== */
   #box-2{
     background-color:rgb(255, 255, 255);
     height: 400px; 
@@ -46,18 +25,15 @@
      padding-top:40px;
      font-size:50px;
      font-weight: bold;
-   
   }
   #box-subheading{
     text-align: center;
     font-size: 20px;
   }
-  
   #boxes{
     border: rgba(80, 79, 79, 0.24)10px solid
   }
   h5{
     text-align: center;
     font-weight: bold;
-    /* text-decoration: underline; */
   }
